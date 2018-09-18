@@ -46,19 +46,35 @@
     <Folder id="kml_ft_cb_2016_us_zcta510_500k">
       <name>cb_2016_us_zcta510_500k</name>
     </Folder>
-    <Placemark id="cb_2017_us_zcta510_500k.kml">
-      <name>&lt;at&gt;&lt;openparen&gt;07444&lt;closeparen&gt;</name>
+    <Placemark id="cb_2016_us_zcta510_500k.kml">
+      <name>&lt;at&gt;&lt;openparen&gt;07470&lt;closeparen&gt;</name>
       <visibility>1</visibility>
       <description>
+        &lt;center&gt;&lt;table&gt;&lt;tr&gt;&lt;th colspan='2' align='center'&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr bgcolor="#E3E3F3"&gt;
+        &lt;th&gt;ZCTA5CE10&lt;/th&gt;
+        &lt;td&gt;07470&lt;/td&gt;
+        &lt;/tr&gt;&lt;tr bgcolor=""&gt;
+        &lt;th&gt;AFFGEOID10&lt;/th&gt;
+        &lt;td&gt;8600000US07470&lt;/td&gt;
+        &lt;/tr&gt;&lt;tr bgcolor="#E3E3F3"&gt;
+        &lt;th&gt;GEOID10&lt;/th&gt;
+        &lt;td&gt;07470&lt;/td&gt;
+        &lt;/tr&gt;&lt;tr bgcolor=""&gt;
+        &lt;th&gt;ALAND10&lt;/th&gt;
+        &lt;td&gt;61597074&lt;/td&gt;
+        &lt;/tr&gt;&lt;tr bgcolor="#E3E3F3"&gt;
+        &lt;th&gt;AWATER10&lt;/th&gt;
+        &lt;td&gt;3648299&lt;/td&gt;
+        &lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;
       </description>
       <styleUrl>#KMLStyler</styleUrl>
       <ExtendedData>
-        <SchemaData schemaUrl="#kml_schema_ft_cb_2017_us_zcta510_500k">
-          <SimpleData name="ZCTA5CE10">07444</SimpleData>
-          <SimpleData name="AFFGEOID10">8600000US07444</SimpleData>
-          <SimpleData name="GEOID10">07444</SimpleData>
-          <SimpleData name="ALAND10">13532517</SimpleData>
-          <SimpleData name="AWATER10">386430</SimpleData>
+        <SchemaData schemaUrl="#kml_schema_ft_cb_2016_us_zcta510_500k">
+          <SimpleData name="ZCTA5CE10">07470</SimpleData>
+          <SimpleData name="AFFGEOID10">8600000US07470</SimpleData>
+          <SimpleData name="GEOID10">07470</SimpleData>
+          <SimpleData name="ALAND10">61597074</SimpleData>
+          <SimpleData name="AWATER10">3648299</SimpleData>
         </SchemaData>
       </ExtendedData>
       <Polygon>
