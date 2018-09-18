@@ -46,19 +46,33 @@
     <Folder id="kml_ft_cb_2016_us_zcta510_500k">
       <name>cb_2016_us_zcta510_500k</name>
     </Folder>
-    <Placemark id="cb_2017_us_zcta510_500k.kml">
-      <name>&lt;at&gt;&lt;openparen&gt;07444&lt;closeparen&gt;</name>
+    <Placemark id="cb_2016_us_zcta510_500k.kml">
+      <name>&lt;at&gt;&lt;openparen&gt;07436&lt;closeparen&gt;</name>
       <visibility>1</visibility>
-      <description>
-      </description>
+      <description>&lt;center&gt;&lt;table&gt;&lt;tr&gt;&lt;th colspan='2' align='center'&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr bgcolor="#E3E3F3"&gt;
+&lt;th&gt;ZCTA5CE10&lt;/th&gt;
+&lt;td&gt;07436&lt;/td&gt;
+&lt;/tr&gt;&lt;tr bgcolor=""&gt;
+&lt;th&gt;AFFGEOID10&lt;/th&gt;
+&lt;td&gt;8600000US07436&lt;/td&gt;
+&lt;/tr&gt;&lt;tr bgcolor="#E3E3F3"&gt;
+&lt;th&gt;GEOID10&lt;/th&gt;
+&lt;td&gt;07436&lt;/td&gt;
+&lt;/tr&gt;&lt;tr bgcolor=""&gt;
+&lt;th&gt;ALAND10&lt;/th&gt;
+&lt;td&gt;22021977&lt;/td&gt;
+&lt;/tr&gt;&lt;tr bgcolor="#E3E3F3"&gt;
+&lt;th&gt;AWATER10&lt;/th&gt;
+&lt;td&gt;693288&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
       <styleUrl>#KMLStyler</styleUrl>
       <ExtendedData>
-        <SchemaData schemaUrl="#kml_schema_ft_cb_2017_us_zcta510_500k">
-          <SimpleData name="ZCTA5CE10">07444</SimpleData>
-          <SimpleData name="AFFGEOID10">8600000US07444</SimpleData>
-          <SimpleData name="GEOID10">07444</SimpleData>
-          <SimpleData name="ALAND10">13532517</SimpleData>
-          <SimpleData name="AWATER10">386430</SimpleData>
+        <SchemaData schemaUrl="#kml_schema_ft_cb_2016_us_zcta510_500k">
+          <SimpleData name="ZCTA5CE10">07436</SimpleData>
+          <SimpleData name="AFFGEOID10">8600000US07436</SimpleData>
+          <SimpleData name="GEOID10">07436</SimpleData>
+          <SimpleData name="ALAND10">22021977</SimpleData>
+          <SimpleData name="AWATER10">693288</SimpleData>
         </SchemaData>
       </ExtendedData>
       <Polygon>
@@ -67,7 +81,7 @@
         <altitudeMode>clampToGround</altitudeMode>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-74.332748,40.957076,0.0 -74.333437,40.954732,0.0 -74.329997,40.955055,0.0 -74.329886,40.952517,0.0 -74.326304,40.953003,0.0 -74.32127,40.952797,0.0 -74.313359,40.951932,0.0 -74.304341,40.950832,0.0 -74.299216,40.952305,0.0 -74.292858,40.952333,0.0 -74.29315,40.953871,0.0 -74.288587,40.953608,0.0 -74.289874,40.957347,0.0 -74.281715,40.957463,0.0 -74.280318,40.953885,0.0 -74.278923,40.952189,0.0 -74.278062,40.955286,0.0 -74.279801,40.956304,0.0 -74.280558,40.957995,0.0 -74.279302,40.964943,0.0 -74.28078,40.965846,0.0 -74.281252,40.968482,0.0 -74.282307,40.969512,0.0 -74.280975,40.972167,0.0 -74.278078,40.971678,0.0 -74.27754,40.973612,0.0 -74.278832,40.975398,0.0 -74.281501,40.976128,0.0 -74.281924,40.976995,0.0 -74.281688,40.979961,0.0 -74.283317,40.979264,0.0 -74.28338,40.978953,0.0 -74.2848,40.978643,0.0 -74.28687,40.97987,0.0 -74.288007,40.979156,0.0 -74.293091,40.979852,0.0 -74.294909,40.978868,0.0 -74.297417,40.979623,0.0 -74.297446,40.98358,0.0 -74.315245,40.982081,0.0 -74.320612,40.984365,0.0 -74.321017,40.986007,0.0 -74.323211,40.985603,0.0 -74.323815,40.98697,0.0 -74.325903,40.987418,0.0 -74.325837,40.986237,0.0 -74.331401,40.988262,0.0 -74.330733,40.97253,0.0 -74.330728,40.9724,0.0 -74.330469,40.966301,0.0 -74.330459,40.966053,0.0 -74.330135,40.958406,0.0 -74.332748,40.957076,0.0</coordinates>
+            <coordinates>-74.270658,41.021033,0.0 -74.272226,41.017935,0.0 -74.266852,41.013883,0.0 -74.264268,41.011935,0.0 -74.248532,40.992094,0.0 -74.247096,40.993473,0.0 -74.246069,40.995726,0.0 -74.246067,40.998393,0.0 -74.200509,41.045246,0.0 -74.218476,41.050705,0.0 -74.231359,41.056532,0.0 -74.248954,41.063615,0.0 -74.250458,41.060816,0.0 -74.270658,41.021033,0.0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
