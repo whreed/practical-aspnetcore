@@ -49,22 +49,22 @@
     <Placemark id="cb_2017_us_zcta510_500k.kml">
 	<name>&lt;at&gt;&lt;openparen&gt;07444&lt;closeparen&gt;</name>
 	<visibility>1</visibility>
-	<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-	<th>ZCTA5CE10</th>
-	<td>07444</td>
-	</tr><tr bgcolor="">
-	<th>AFFGEOID10</th>
-	<td>8600000US07444</td>
-	</tr><tr bgcolor="#E3E3F3">
-	<th>GEOID10</th>
-	<td>07444</td>
-	</tr><tr bgcolor="">
-	<th>ALAND10</th>
-	<td>13532517</td>
-	</tr><tr bgcolor="#E3E3F3">
-	<th>AWATER10</th>
-	<td>386430</td>
-	</tr></table></center>]]></description>
+	<description>&lt;center&gt;&lt;table&gt;&lt;tr&gt;&lt;th colspan='2' align='center'&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr bgcolor="#E3E3F3"&gt;
+	&lt;th&gt;ZCTA5CE10&lt;/th&gt;
+	&lt;td&gt;07444&lt;/td&gt;
+	&lt;/tr&gt;&lt;tr bgcolor=""&gt;
+	&lt;th&gt;AFFGEOID10&lt;/th&gt;
+	&lt;td&gt;8600000US07444&lt;/td&gt;
+	&lt;/tr&gt;&lt;tr bgcolor="#E3E3F3"&gt;
+	&lt;th&gt;GEOID10&lt;/th&gt;
+	&lt;td&gt;07444&lt;/td&gt;
+	&lt;/tr&gt;&lt;tr bgcolor=""&gt;
+	&lt;th&gt;ALAND10&lt;/th&gt;
+	&lt;td&gt;13532517&lt;/td&gt;
+	&lt;/tr&gt;&lt;tr bgcolor="#E3E3F3"&gt;
+	&lt;th&gt;AWATER10&lt;/th&gt;
+	&lt;td&gt;386430&lt;/td&gt;
+	&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
 	<styleUrl>#KMLStyler</styleUrl>
 	<ExtendedData>
 	<SchemaData schemaUrl="#kml_schema_ft_cb_2017_us_zcta510_500k">
